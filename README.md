@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yabsra-Yihenew
+- 👋 Hi, I’m Yabsra-Yihenew
 - I’m interested in Web development and graphics design
 - I’m currently learning computer science and managment
 - I’m looking to collaborate on any problem solving tasks 
