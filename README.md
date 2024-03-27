@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Yabsra-Yihenew
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning Computer science and managment
-- 💞️ I’m looking to collaborate on any problem solving task
+- 👋 Hi, I’m @Yabsra-Yihenew
+- I’m interested in Web development and graphics design
+- I’m currently learning computer science and managment
+- I’m looking to collaborate on any problem solving tasks 
+- www.linkedin.com/in/yabsra-yihenew-07ab96174
 
 <!---
 Yabsra-Yihenew/Yabsra-Yihenew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
